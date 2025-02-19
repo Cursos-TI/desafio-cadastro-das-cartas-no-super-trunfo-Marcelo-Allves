@@ -9,7 +9,7 @@ int main() {
     float area1, pib1;
     int pontosTuristicos1;
 
-    // Entrada de dados para a primeira carta
+    // Entrada de Dados para a primeira carta
     printf("Digite o estado da primeira carta (A-H): ");
     scanf(" %c", &estado1);
 
